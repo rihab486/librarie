@@ -1,0 +1,40 @@
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-attachment: fixed;  
+        background-size: cover;
+        background-image: url(comp.jpg);
+
+}
+button{
+    color: black;
+    border: darkgreen;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    background-image: linear-gradient(to right,pink , rgb(0, 255, 115));
+
+}
+h1{
+    
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+     font-size: 60px;
+     text-align:left;
+}
+p{
+    text-align: left;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    padding: 30px;
+}
+.x{
+    position: left;
+}
+.compte{
+    
+    text-align: center;
+    background-color: beige;
+       height: 250px;
+       width: 300px;
+       opacity: 60%;
+       border-radius: 25px 10px;
+       border-color: rgb(33, 155, 155);
+}

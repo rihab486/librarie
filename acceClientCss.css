@@ -1,0 +1,19 @@
+
+p{
+    text-align: left;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    padding: 30px;
+}
+.compte1
+    {
+    
+        text-align: center;
+        background-color: beige;
+           height: 250px;
+           width: 300px;
+           opacity: 60%;
+           border-radius: 25px 10px;
+           border-color: rgb(33, 155, 155);
+    }
+    
+

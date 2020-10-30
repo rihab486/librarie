@@ -1,0 +1,57 @@
+.nav{
+    text-align: right;
+    background-color: pink ;
+    padding: 1px 0;
+    height: 30px;
+}
+h6{
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    padding: 30px;
+}
+#nav{
+    color: pink;
+    text-align: right;
+    background-color: pink ;
+    padding: 1px 0;
+    height: 30px;
+}
+#a{
+    color: aqua;
+}
+button{
+    background-color:royalblue }
+#se{
+    color: black;  
+    text-align: right;
+}
+
+#ch{
+    text-align: left;
+    background-color: pink;
+       height: 100px;
+       width: 200px;
+}
+
+#do{
+    text-align: left;
+    background-color: gray;
+       height: 100px;
+       width: 200px;
+}
+#de{
+    text-align: left;
+    background-color: rgb(82, 185, 82);
+       height: 100px;
+       width: 200px;
+}
+#re{
+    text-align: left;
+    background-color: rgb(193, 230, 32);
+       height: 100px;
+       width: 200px;
+}
+h5{
+    color: black;
+    text-align: center;
+}
